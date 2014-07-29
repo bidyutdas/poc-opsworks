@@ -1,0 +1,3 @@
+[submodule "lab-chef-zabbix"]
+	path = lab-chef-zabbix
+	url = https://github.com/team-lab/lab-chef-zabbix.git
